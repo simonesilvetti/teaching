@@ -19,6 +19,8 @@ The material is organized in two parts:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simonesilvetti/teaching/blob/main/2026/phd-RL/RL_course.ipynb)
 
+> **Per gli studenti — salvate la vostra copia.** Cliccando sul badge il notebook si apre in una sessione Colab temporanea: potete eseguire ed editare le celle, ma le modifiche **non vengono salvate** e si perdono chiudendo la scheda. Prima di iniziare a lavorarci fate **File → Salva una copia in Drive** (*File → Save a copy in Drive*): otterrete un duplicato personale sul vostro Google Drive su cui fare liberamente le vostre prove, senza toccare l'originale.
+
 ## References
 
 - **[SB]** Sutton, R. S., and Barto, A. G. (2018). *Reinforcement Learning: An Introduction*, 2nd edition. MIT Press. [Free online](http://incompleteideas.net/book/the-book-2nd.html). The primary reference for this course (Chapters 1–8).
