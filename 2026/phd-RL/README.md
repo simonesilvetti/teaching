@@ -19,7 +19,7 @@ The material is organized in two parts:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simonesilvetti/teaching/blob/main/2026/phd-RL/RL_course.ipynb)
 
-> **Per gli studenti — salvate la vostra copia.** Cliccando sul badge il notebook si apre in una sessione Colab temporanea: potete eseguire ed editare le celle, ma le modifiche **non vengono salvate** e si perdono chiudendo la scheda. Prima di iniziare a lavorarci fate **File → Salva una copia in Drive** (*File → Save a copy in Drive*): otterrete un duplicato personale sul vostro Google Drive su cui fare liberamente le vostre prove, senza toccare l'originale.
+> **For students — save your own copy.** Clicking the badge opens the notebook in a temporary Colab session: you can run and edit the cells, but your changes are **not saved** and will be lost when you close the tab. Before you start working on it, go to **File → Save a copy in Drive**: this creates a personal duplicate on your own Google Drive where you can freely experiment without touching the original.
 
 ## References
 
