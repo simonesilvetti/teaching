@@ -14,8 +14,10 @@ RL addresses problems where a **decision-maker interacts repeatedly with a dynam
 
 The material is organized in two parts:
 
-- **Slides** — [`2024_Phd_4hurs_RL_full.pdf`](2024_Phd_4hurs_RL_full.pdf): the lecture slides for the course.
+- **PDF Slides** — [`2024_Phd_4hurs_RL_full.pdf`](2024_Phd_4hurs_RL_full.pdf): the lecture slides for the course.
+- **Handwritten Slides** — [`slides.pdf`](slides.pdf): the lecture handwritten slides for the course.
 - **Notebook** — [`RL_course.ipynb`](RL_course.ipynb): a self-contained Colab notebook with the theory, the problems, and runnable code. Open it directly in the browser with the badge below.
+- **Lessons Recording** — [Lesson 1](https://drive.google.com/file/d/1PsRWihHkn8TJRQXuAjDWe-q6-LFPq0Kj/view?usp=drive_link), [Lesson 2](https://drive.google.com/file/d/1dC7XIl7oC1sj70kPUdP7K_3xsPvBo5Hx/view?usp=drive_link) 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simonesilvetti/teaching/blob/main/2026/phd-RL/RL_course.ipynb)
 
